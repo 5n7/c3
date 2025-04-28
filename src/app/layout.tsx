@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "C3 - Character Code Comparator",
+  title: "c3 - Character Code Comparator",
   description: "Compare character codes side-by-side.",
 };
 

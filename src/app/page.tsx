@@ -59,7 +59,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center p-12 font-sans">
       <header className="mb-10">
-        <h1 className="text-4xl font-bold">C3 - Character Code Comparator</h1>
+        <h1 className="text-4xl font-bold">c3 - Character Code Comparator</h1>
       </header>
 
       <section className="mb-8 flex w-full max-w-4xl flex-col gap-4 md:flex-row">

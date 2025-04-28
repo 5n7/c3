@@ -1,1 +1,1 @@
-# C3 - Character Code Comparator
+# c3 - Character Code Comparator
